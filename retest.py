@@ -8,3 +8,4 @@ text = '배송받기까지 12일 걸림. 연계된 택배사 확인 후 연락�
 print(hangul.sub('', text))
 
 ##이거 잘 되는건
+# dfdfdfdfdfdfd
